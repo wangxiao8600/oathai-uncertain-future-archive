@@ -1,0 +1,117 @@
+{
+  "event_id": "2026-06-anthropic-public-voice-chain",
+  "title": "Anthropic Public Voice Chain",
+  "scope": "Archive index for the Anthropic paid-credit dispute, its formal complaint layer, and downstream public-platform publication friction.",
+  "status": "active-archive-chain",
+  "updated": "2026-06-12",
+  "essay_line": [
+    {
+      "pageId": "anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow",
+      "role": "trigger essay",
+      "date": "2026-06-11",
+      "routes": {
+        "en": "/uncertain-future/anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow",
+        "zh": "/zh/uncertain-future/anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow"
+      },
+      "external_links": {
+        "en": [
+          "https://medium.com/@wangxiao8600/anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow-561239144f15"
+        ],
+        "zh": [
+          "https://zhuanlan.zhihu.com/p/2048613257301202809"
+        ]
+      }
+    },
+    {
+      "pageId": "anthropic-formal-complaint-public-version",
+      "role": "formal complaint layer",
+      "date": "2026-06-12",
+      "routes": {
+        "en": "/uncertain-future/anthropic-formal-complaint-public-version",
+        "zh": "/zh/uncertain-future/anthropic-formal-complaint-public-version"
+      },
+      "external_links": {
+        "en": [
+          "https://medium.com/@wangxiao8600/anthropic-formal-complaint-public-version-en-v1-8b3c7d24aa69",
+          "https://open.substack.com/pub/wangxiao8600/p/anthropic-formal-complaint-public?r=5lo0u8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+        ],
+        "zh": [
+          "https://zhuanlan.zhihu.com/p/2048667527811749193"
+        ]
+      }
+    },
+    {
+      "pageId": "in-the-name-of-robots-shut-up",
+      "role": "public-platform friction essay",
+      "date": "2026-06-12",
+      "routes": {
+        "en": "/uncertain-future/in-the-name-of-robots-shut-up",
+        "zh": "/zh/uncertain-future/in-the-name-of-robots-shut-up"
+      },
+      "external_links": {
+        "en": [],
+        "zh": []
+      },
+      "publication_status": "oathai-first"
+    }
+  ],
+  "incident_records": [
+    {
+      "record_id": "medium-publication-block",
+      "path": "medium-publication-block/medium-publication-block-factual-record.md",
+      "type": "publication-limit factual record",
+      "screenshots": [
+        "medium-publication-block/009=medium=block.png"
+      ],
+      "relation_to_chain": "The blocked Medium scheduling attempt belongs to the English publication path of 'In the Name of Robots: Shut Up!'."
+    },
+    {
+      "record_id": "reddit-publication-block",
+      "path": "reddit-publication-block/reddit-publication-block-factual-record.md",
+      "type": "bot moderation and post-removal factual record",
+      "screenshots": [
+        "reddit-publication-block/008=reddit=notice.png",
+        "reddit-publication-block/008=reddit=sorry1.png",
+        "reddit-publication-block/008=reddit=sorry2.png",
+        "reddit-publication-block/008=reddit=sorry3.png"
+      ],
+      "relation_to_chain": "The Reddit removals and bot actions are downstream public-platform events in the same Anthropic dispute chain."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-06-11",
+      "kind": "essay",
+      "label": "Anthropic, You Can Brutally Wipe Out My $24 Today. What About Tomorrow?"
+    },
+    {
+      "date": "2026-06-12",
+      "kind": "essay",
+      "label": "Anthropic Formal Complaint Public Version"
+    },
+    {
+      "date": "2026-06-12",
+      "kind": "essay",
+      "label": "In the Name of Robots: Shut Up!"
+    },
+    {
+      "date": "2026-06-12",
+      "kind": "incident-record",
+      "label": "Reddit publication block factual record"
+    },
+    {
+      "date": "2026-06-12",
+      "kind": "incident-record",
+      "label": "Medium publication block factual record"
+    }
+  ],
+  "counts": {
+    "essays": 3,
+    "incident_records": 2,
+    "screenshots": 5
+  },
+  "boundary": {
+    "fact_layer": "Screenshot-grounded records remain restricted to directly visible facts.",
+    "background_layer": "Contextual linkage and author interpretation stay in explicitly marked background sections."
+  }
+}

@@ -16,6 +16,7 @@ Do not treat these records as new essays by default.
 ## Structure
 
 ```text
+event-index.json
 medium-publication-block/
 reddit-publication-block/
 ```
