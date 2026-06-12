@@ -22,6 +22,7 @@ Included:
 - `content/uncertain-future/essays.json`
 - `content/uncertain-future/sources/*`
 - `pic/uncertain-future/*`
+- `incident-records/*`
 - generated archive manifests under `data/`
 
 Not included:
@@ -38,6 +39,8 @@ content/uncertain-future/
   sources/
 
 pic/uncertain-future/
+
+incident-records/
 
 data/
   summary.json
@@ -83,3 +86,4 @@ Current summary counts and counterpart gaps are written to:
 - English sync remains the default rule.
 - Some historical entries are still `zh`-only. Those are tracked in `data/summary.json` rather than silently normalized.
 - This repo is archive-first. It does not replace `oathai.io` route, canonical, hreflang, or homepage presentation logic.
+- `incident-records/` is for factual records, screenshots, and platform-distribution constraints that belong to the same event chain but should not be promoted into new essays by default.
