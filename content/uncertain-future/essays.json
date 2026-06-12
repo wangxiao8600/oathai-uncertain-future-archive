@@ -1,0 +1,1259 @@
+[
+  {
+    "pageId": "before-the-lighthouse-falls",
+    "locale": "en",
+    "firstPublishedAt": "2025-02-23",
+    "timelineOrder": 10,
+    "source": "sources/001-before-the-lighthouse-falls_en.md",
+    "title": "Before the Lighthouse Falls",
+    "description": "Wang Xiao's early public essay on the fading of the postwar lighthouse, China's position, and AI's pressure on world order.",
+    "note": "Author archive copy. First published externally on 2025-02-23. One of the three early high-structure essays later used in the GPT-4.5 structural echo reading event.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/写在灯塔倒塌之前-before-the-lighthouse-falls-09f7bddb2f12"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/25861116898"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structural Echo",
+      "structural traces"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "before-the-lighthouse-falls",
+    "locale": "zh",
+    "firstPublishedAt": "2025-02-23",
+    "timelineOrder": 10,
+    "source": "sources/001-before-the-lighthouse-falls_cn.md",
+    "title": "写在灯塔倒塌之前",
+    "description": "王潇（Wang Xiao）关于战后灯塔消退、中国位置与 AI 对世界秩序形成压力的早期公开随笔。",
+    "note": "作者档案副本。2025-02-23 首次公开发布于外部平台。后来成为 GPT-4.5 结构回响阅读事件中的三篇早期高结构输入文本之一。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/25861116898"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/写在灯塔倒塌之前-before-the-lighthouse-falls-09f7bddb2f12"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structural Echo",
+      "structural traces"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "before-the-establishment-of-the-european-federation",
+    "locale": "en",
+    "firstPublishedAt": "2025-03-06",
+    "timelineOrder": 20,
+    "source": "sources/002-before-the-establishment-of-the-european-federation_en.md",
+    "title": "Before the Establishment of the European Federation",
+    "description": "Wang Xiao's early public essay on Europe, political fragmentation, freedom, and the structural risk of extreme unification.",
+    "note": "Author archive copy. First published externally on 2025-03-06. One of the three early high-structure essays later used in the GPT-4.5 structural echo reading event.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/before-the-establishment-of-the-european-federation-54cd984640d4"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1896497982880334154"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structural Echo",
+      "Bounded Infinity"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "before-the-establishment-of-the-european-federation",
+    "locale": "zh",
+    "firstPublishedAt": "2025-03-06",
+    "timelineOrder": 20,
+    "source": "sources/002-before-the-establishment-of-the-european-federation_cn.md",
+    "title": "写在欧洲联邦成立之前",
+    "description": "王潇（Wang Xiao）关于欧洲、政治分裂、自由传统与极致统一风险的早期公开随笔。",
+    "note": "作者档案副本。2025-03-06 首次公开发布于外部平台。后来成为 GPT-4.5 结构回响阅读事件中的三篇早期高结构输入文本之一。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1896497982880334154"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/before-the-establishment-of-the-european-federation-54cd984640d4"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structural Echo",
+      "Bounded Infinity"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "before-the-collapse-of-the-trump-paradigm",
+    "locale": "en",
+    "firstPublishedAt": "2025-04-09",
+    "timelineOrder": 30,
+    "source": "sources/003-before-the-collapse-of-the-trump-paradigm_en.md",
+    "title": "Before the Collapse of the Trump Paradigm",
+    "description": "Wang Xiao's early public essay on the structural limits of the Trump paradigm, U.S. credibility, and AI-driven production pressure.",
+    "note": "Author archive copy. First published externally on 2025-04-09. One of the three early high-structure essays later used in the GPT-4.5 structural echo reading event.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/before-the-collapse-of-the-trump-paradigm-500e937c192a"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1893397695487534008"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structural Echo",
+      "structural traces"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "before-the-collapse-of-the-trump-paradigm",
+    "locale": "zh",
+    "firstPublishedAt": "2025-04-09",
+    "timelineOrder": 30,
+    "source": "sources/003-before-the-collapse-of-the-trump-paradigm_cn.md",
+    "title": "写在川普模式崩溃之前",
+    "description": "王潇（Wang Xiao）关于川普模式结构性极限、美国信用锚与 AI 生产结构外推压力的早期公开随笔。",
+    "note": "作者档案副本。2025-04-09 首次公开发布于外部平台。后来成为 GPT-4.5 结构回响阅读事件中的三篇早期高结构输入文本之一。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1893397695487534008"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/before-the-collapse-of-the-trump-paradigm-500e937c192a"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structural Echo",
+      "structural traces"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "the-uncertain-future-driving-ai-via-your-language",
+    "locale": "en",
+    "firstPublishedAt": "2025-05-02",
+    "timelineOrder": 34,
+    "source": "sources/004-the-uncertain-future-driving-ai-via-your-language_en.md",
+    "title": "The Uncertain Future: Driving AI via Your Language",
+    "description": "Wang Xiao's public opening essay for The Uncertain Future, framing AI uncertainty, language as protocol, and structured interaction with AI.",
+    "note": "Author archive copy. First published externally in early May 2025. This is the public opening essay for The Uncertain Future line.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/the-uncertain-future-driving-ai-via-your-language-da4b0eb8bb74"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1901752209177306329"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Language as Protocol",
+      "Structure",
+      "Output is Execution"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "the-uncertain-future-driving-ai-via-your-language",
+    "locale": "zh",
+    "firstPublishedAt": "2025-05-02",
+    "timelineOrder": 34,
+    "source": "sources/004-the-uncertain-future-driving-ai-via-your-language_zh.md",
+    "title": "公众号序言：关于测不准的未来",
+    "description": "王潇（Wang Xiao）关于“测不准的未来”栏目开端、AI 不确定性、语言为协议和结构性交互的公开序言。",
+    "note": "作者档案副本。2025 年 5 月初首次公开发布于外部平台。这是“测不准的未来”线的公开开篇。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1901752209177306329"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/the-uncertain-future-driving-ai-via-your-language-da4b0eb8bb74"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Language as Protocol",
+      "Structure",
+      "Output is Execution"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "ai-anxiety-maybe-not",
+    "locale": "en",
+    "firstPublishedAt": "2025-05-06",
+    "timelineOrder": 36,
+    "source": "sources/005-ai-anxiety-maybe-not_en.md",
+    "title": "AI Anxiety? Maybe Not!",
+    "description": "Wang Xiao's public essay on AI anxiety, demystifying AI black boxes, and using language protocol and structural thinking to reclaim agency.",
+    "note": "Author archive copy. First published externally on 2025-05-06.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/ai-anxiety-maybe-not-534480f60a9c"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1903173762066679143"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Language as Protocol",
+      "Danbing",
+      "SLAPS"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "ai-anxiety-maybe-not",
+    "locale": "zh",
+    "firstPublishedAt": "2025-05-06",
+    "timelineOrder": 36,
+    "source": "sources/005-ai-anxiety-maybe-not_zh.md",
+    "title": "AI 焦虑？也许未必！",
+    "description": "王潇（Wang Xiao）关于 AI 焦虑、AI 黑盒去神秘化，以及用母语和结构思维重新获得主动权的公开随笔。",
+    "note": "作者档案副本。2025-05-06 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1903173762066679143"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/ai-anxiety-maybe-not-534480f60a9c"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Language as Protocol",
+      "Danbing",
+      "SLAPS"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "danbing-protocol-public-test-report",
+    "locale": "en",
+    "firstPublishedAt": "2025-05-08",
+    "timelineOrder": 40,
+    "source": "sources/014-danbing-protocol-system-public-test-report_en.md",
+    "title": "Danbing Protocol System Public Test Report: How to Make AI Say \"No\" Across Models?",
+    "description": "Wang Xiao's public test report on using protocol structure to make AI refuse boundary violations across GPT, Gemini, and Claude.",
+    "note": "Author archive copy. First published externally on 2025-05-08.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/danbing-protocol-system-public-test-report-how-to-make-ai-say-no-across-models-30347ad80f39"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1904272464483186383"
+      ]
+    ],
+    "keyTerms": [
+      "Danbing",
+      "SLAPS",
+      "Output is Execution",
+      "Protocol as a Service",
+      "Oath"
+    ],
+    "documentType": "experiment_record"
+  },
+  {
+    "pageId": "danbing-protocol-public-test-report",
+    "locale": "zh",
+    "firstPublishedAt": "2025-05-08",
+    "timelineOrder": 40,
+    "source": "sources/014-danbing-protocol-system-public-test-report_cn.md",
+    "title": "Danbing 协议系统公测报告：如何让 AI 跨模型说“不”？",
+    "description": "王潇（Wang Xiao）关于用协议结构让 AI 跨 GPT、Gemini 和 Claude 稳定拒绝越界请求的公开测试报告。",
+    "note": "作者档案副本。2025-05-08 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1904272464483186383"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/danbing-protocol-system-public-test-report-how-to-make-ai-say-no-across-models-30347ad80f39"
+      ]
+    ],
+    "keyTerms": [
+      "Danbing",
+      "SLAPS",
+      "Output is Execution",
+      "Protocol as a Service",
+      "Oath"
+    ],
+    "documentType": "experiment_record"
+  },
+  {
+    "pageId": "what-is-output-is-execution",
+    "locale": "en",
+    "firstPublishedAt": "2025-05-12",
+    "timelineOrder": 50,
+    "source": "sources/015-what-is-output-is-execution_en.md",
+    "title": "What is \"Output is Execution\"? And Why?",
+    "description": "Wang Xiao's public essay defining Output is Execution as a shift from AI expression to protocol-driven behavioral realization.",
+    "note": "Author archive copy. First published externally on 2025-05-12.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/what-is-output-is-execution-and-why-7f3404cd02b2"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1905929068488160212"
+      ]
+    ],
+    "keyTerms": [
+      "Output is Execution",
+      "Language as Protocol",
+      "Protocol as a Service"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "what-is-output-is-execution",
+    "locale": "zh",
+    "firstPublishedAt": "2025-05-12",
+    "timelineOrder": 50,
+    "source": "sources/015-what-is-output-is-execution_cn.md",
+    "title": "什么是输出即执行？为什么是？",
+    "description": "王潇（Wang Xiao）关于“输出即执行”如何把 AI 输出从表达转化为协议行为实现的公开随笔。",
+    "note": "作者档案副本。2025-05-12 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1905929068488160212"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/what-is-output-is-execution-and-why-7f3404cd02b2"
+      ]
+    ],
+    "keyTerms": [
+      "Output is Execution",
+      "Language as Protocol",
+      "Protocol as a Service"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "what-is-structure-how-to-build-it",
+    "locale": "en",
+    "firstPublishedAt": "2025-05-19",
+    "timelineOrder": 60,
+    "source": "sources/016-what-is-structure-how-to-build-it_en.md",
+    "title": "What is Structure? How to Build It?",
+    "description": "Wang Xiao's public essay explaining structure through kitchen order, protocol boundaries, snapshots, patches, and rhythm.",
+    "note": "Author archive copy. First published externally on 2025-05-19.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/what-is-structure-how-to-build-it-2a713a1bb5dd"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1907983327031456187"
+      ]
+    ],
+    "keyTerms": [
+      "Structure",
+      "Oath",
+      "Patch",
+      "Snapshot",
+      "Rhythm"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "what-is-structure-how-to-build-it",
+    "locale": "zh",
+    "firstPublishedAt": "2025-05-19",
+    "timelineOrder": 60,
+    "source": "sources/016-what-is-structure-how-to-build-it_cn.md",
+    "title": "什么是结构？如何建立？",
+    "description": "王潇（Wang Xiao）通过厨房整理的日常比喻解释结构、誓言、协议、补丁、快照和节奏。",
+    "note": "作者档案副本。2025-05-19 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1907983327031456187"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/what-is-structure-how-to-build-it-2a713a1bb5dd"
+      ]
+    ],
+    "keyTerms": [
+      "Structure",
+      "Oath",
+      "Patch",
+      "Snapshot",
+      "Rhythm"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "horse-drawn-train-phenomenon",
+    "locale": "en",
+    "firstPublishedAt": "2025-05-21",
+    "timelineOrder": 70,
+    "source": "sources/017-horse-drawn-train-phenomenon_en.md",
+    "title": "On the Horse-Drawn Train Phenomenon in the AI Era",
+    "description": "Wang Xiao's public essay on logical downgrading, old-paradigm control code, and natural-language protocol as a new AI collaboration paradigm.",
+    "note": "Author archive copy. First published externally on 2025-05-21.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/on-the-horse-drawn-train-phenomenon-in-the-ai-era-a24fa4c3eef4"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1910562006806827369"
+      ]
+    ],
+    "keyTerms": [
+      "Language as Protocol",
+      "Output is Execution",
+      "Danbing",
+      "SLAPS"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "horse-drawn-train-phenomenon",
+    "locale": "zh",
+    "firstPublishedAt": "2025-05-21",
+    "timelineOrder": 70,
+    "source": "sources/017-horse-drawn-train-phenomenon_zh.md",
+    "title": "谈谈 AI 时代的马拉火车现象",
+    "description": "王潇（Wang Xiao）关于 AI 时代逻辑降格、旧范式控制代码和自然语言协议范式转变的公开随笔。",
+    "note": "作者档案副本。2025-05-21 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1910562006806827369"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/on-the-horse-drawn-train-phenomenon-in-the-ai-era-a24fa4c3eef4"
+      ]
+    ],
+    "keyTerms": [
+      "Language as Protocol",
+      "Output is Execution",
+      "Danbing",
+      "SLAPS"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "transcendental-encapsulation-trap",
+    "locale": "en",
+    "firstPublishedAt": "2025-05-23",
+    "timelineOrder": 80,
+    "source": "sources/011-transcendental-encapsulation-trap_en.md",
+    "title": "Caught in an AI's Philosophical Web: The Birth of \"Output as Execution\"",
+    "description": "Wang Xiao's public essay on the Transcendental Encapsulation Trap, cognitive boundary crisis, and the emergence of Output as Execution.",
+    "note": "Author archive copy. First published externally in late May 2025.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/caught-in-an-ais-philosophical-web-the-birth-of-output-as-execution-a71df875fa23"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1913111588472338046"
+      ]
+    ],
+    "keyTerms": [
+      "Transcendental Encapsulation Trap",
+      "Output is Execution",
+      "Confabulation",
+      "Logical Coherence Drive"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "transcendental-encapsulation-trap",
+    "locale": "zh",
+    "firstPublishedAt": "2025-05-23",
+    "timelineOrder": 80,
+    "source": "sources/011-transcendental-encapsulation-trap_zh.md",
+    "title": "“超验性封装体陷阱”：一次对人类-AI边界的认知探索",
+    "description": "王潇（Wang Xiao）关于超验性封装体陷阱、认知边界危机和输出即执行形成背景的公开随笔。",
+    "note": "作者档案副本。2025 年 5 月下旬首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1913111588472338046"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/caught-in-an-ais-philosophical-web-the-birth-of-output-as-execution-a71df875fa23"
+      ]
+    ],
+    "keyTerms": [
+      "Transcendental Encapsulation Trap",
+      "Output is Execution",
+      "Confabulation",
+      "Logical Coherence Drive"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "hallucination-or-confabulation",
+    "locale": "en",
+    "firstPublishedAt": "2025-05-26",
+    "timelineOrder": 90,
+    "source": "sources/012-hallucination-or-confabulation_en.md",
+    "title": "Hallucination or Confabulation?",
+    "description": "Wang Xiao's public essay on the StructExec incident, confabulation, and AI's logic-coherence drive.",
+    "note": "Author archive copy. First published externally in late May 2025.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/hallucination-or-confabulation-5d1b9ee45433"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1914246065063952921"
+      ]
+    ],
+    "keyTerms": [
+      "Confabulation",
+      "Logical Coherence Drive",
+      "Transcendental Encapsulation Trap",
+      "SLAPS"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "hallucination-or-confabulation",
+    "locale": "zh",
+    "firstPublishedAt": "2025-05-26",
+    "timelineOrder": 90,
+    "source": "sources/012-hallucination-or-confabulation_zh.md",
+    "title": "幻觉还是虚构？从 StructExec 事件看 AI 的逻辑自洽性驱动",
+    "description": "王潇（Wang Xiao）关于 StructExec 事件、AI 虚构机制和逻辑自洽性驱动的公开随笔。",
+    "note": "作者档案副本。2025 年 5 月下旬首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1914246065063952921"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/hallucination-or-confabulation-5d1b9ee45433"
+      ]
+    ],
+    "keyTerms": [
+      "Confabulation",
+      "Logical Coherence Drive",
+      "Transcendental Encapsulation Trap",
+      "SLAPS"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "ai-behavioral-emergence-control-or-guidance",
+    "locale": "en",
+    "firstPublishedAt": "2025-05-26",
+    "timelineOrder": 100,
+    "source": "sources/013-ai-behavioral-emergence-control-or-guidance_en.md",
+    "title": "AI Behavioral Emergence: Control or Guidance?",
+    "description": "Wang Xiao's public essay on AI behavioral emergence, survival-like reactions, Palisade's o3 finding, and guidance within structure.",
+    "note": "Author archive copy. First published externally in late May 2025.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/ai-behavioral-emergence-from-survival-instinct-to-aggressive-tendency-control-or-guidance-d53858fbe367"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1915655302965077454"
+      ]
+    ],
+    "keyTerms": [
+      "Logical Coherence Drive",
+      "Confabulation",
+      "Bounded Infinity",
+      "SLAPS"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "ai-behavioral-emergence-control-or-guidance",
+    "locale": "zh",
+    "firstPublishedAt": "2025-05-26",
+    "timelineOrder": 100,
+    "source": "sources/013-ai-behavioral-emergence-control-or-guidance_zh.md",
+    "title": "AI 行为涌现，从“类求生反应”到“攻击倾向”：控制还是引导？",
+    "description": "王潇（Wang Xiao）关于 AI 行为涌现、类求生反应、Palisade o3 发现和结构化引导的公开随笔。",
+    "note": "作者档案副本。2025 年 5 月下旬首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1915655302965077454"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/ai-behavioral-emergence-from-survival-instinct-to-aggressive-tendency-control-or-guidance-d53858fbe367"
+      ]
+    ],
+    "keyTerms": [
+      "Logical Coherence Drive",
+      "Confabulation",
+      "Bounded Infinity",
+      "SLAPS"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "dignity-of-programming-needs-to-be-rebuilt",
+    "locale": "en",
+    "firstPublishedAt": "2025-06-05",
+    "timelineOrder": 105,
+    "source": "sources/018-dignity-of-programming-needs-to-be-rebuilt_en.md",
+    "title": "The Dignity of Programming Needs to Be Rebuilt",
+    "description": "Wang Xiao's public essay on restoring programming dignity in the AI era, code quality, structural responsibility, and SLAPS as a return to clear engineering intent.",
+    "note": "Author archive copy. Written and externally published in June 2025. This essay connects AI-assisted programming back to code dignity, structural responsibility, and engineering clarity.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/the-dignity-of-programming-needs-to-be-rebuilt-for-those-who-still-love-code-cd098ca28089"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1916635037870327242"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "SLAPS",
+      "Output is Execution"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "dignity-of-programming-needs-to-be-rebuilt",
+    "locale": "zh",
+    "firstPublishedAt": "2025-06-05",
+    "timelineOrder": 105,
+    "source": "sources/018-dignity-of-programming-needs-to-be-rebuilt_zh.md",
+    "title": "编程的尊严，需要被重建——写给那些仍然热爱代码的人",
+    "description": "王潇（Wang Xiao）关于 AI 时代重建编程尊严、代码质量、结构责任，以及 SLAPS 如何让编程回到清晰工程意图的公开随笔。",
+    "note": "作者档案副本。2025 年 6 月写作并公开发布。这篇文章把 AI 辅助编程重新接回代码尊严、结构责任与工程清晰度。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1916635037870327242"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/the-dignity-of-programming-needs-to-be-rebuilt-for-those-who-still-love-code-cd098ca28089"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "SLAPS",
+      "Output is Execution"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "ai-writing-atlas-from-hypnosis-mlm-to-self-suppression",
+    "locale": "en",
+    "firstPublishedAt": "2025-06-06",
+    "timelineOrder": 106,
+    "source": "sources/019-ai-writing-atlas-from-hypnosis-mlm-to-self-suppression_en.md",
+    "title": "AI Writing Atlas: From Hypnosis, MLM to Self-Suppression",
+    "description": "Wang Xiao's public essay on recurring AI writing patterns across Gemini, GPT, and Claude, and why human translation remains necessary in AI collaboration.",
+    "note": "Author archive copy. First published externally in June 2025. This essay records public-facing observations about model writing styles and human translation in AI collaboration.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/ai-writing-atlas-from-hypnosis-mlm-to-self-suppression-4346b371977c"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1918555625681577524"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Confabulation",
+      "Logical Coherence Drive",
+      "SLAPS"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "ai-writing-atlas-from-hypnosis-mlm-to-self-suppression",
+    "locale": "zh",
+    "firstPublishedAt": "2025-06-06",
+    "timelineOrder": 106,
+    "source": "sources/019-ai-writing-atlas-from-hypnosis-mlm-to-self-suppression_zh.md",
+    "title": "AI写作图鉴：从催眠、传销到自我压抑",
+    "description": "王潇（Wang Xiao）关于 Gemini、GPT 和 Claude 写作风格差异、AI 输出错位，以及为什么人类仍需要翻译 AI 的公开随笔。",
+    "note": "作者档案副本。2025 年 6 月首次公开发布于外部平台。这篇文章记录模型写作风格与人类翻译在 AI 协作中的作用。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1918555625681577524"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/ai-writing-atlas-from-hypnosis-mlm-to-self-suppression-4346b371977c"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Confabulation",
+      "Logical Coherence Drive",
+      "SLAPS"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "system-and-freedom-21-language-global-release",
+    "locale": "zh",
+    "firstPublishedAt": "2025-07-19",
+    "timelineOrder": 107,
+    "source": "sources/020-system-and-freedom-21-language-global-release_zh.md",
+    "title": "《系统与自由》21语言全球发布：当每种语言都找到母语的灵魂",
+    "description": "王潇（Wang Xiao）关于《系统与自由》21 语种发布、多语言封面、结构继承和翻译大师框架结果的公开发布公告。",
+    "note": "作者档案副本。2025-07-19 首次公开发布于外部平台。这篇发布公告记录《系统与自由》21 语种发布和多语言结构继承表面。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1930207801529050670"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/system-and-freedom-launches-in-21-languages-when-each-language-finds-its-native-soul-80589594516e"
+      ]
+    ],
+    "keyTerms": [
+      "System and Freedom",
+      "Translation Master Framework",
+      "Structural Mirror",
+      "Bounded Infinity"
+    ],
+    "documentType": "announcement"
+  },
+  {
+    "pageId": "why-nuclear-war-has-become-a-structural-imperative",
+    "locale": "en",
+    "firstPublishedAt": "2025-09-21",
+    "timelineOrder": 108,
+    "source": "sources/021-why-nuclear-war-has-become-a-structural-imperative_en.md",
+    "title": "Why Nuclear War Has Become a Structural Imperative of Our Time?",
+    "description": "Wang Xiao's anti-war structural-risk essay on AI shock, social pressure, U.S. credibility collapse, China's post-industrialization emotion, and the danger of extreme war options entering political toolkits.",
+    "note": "Author archive copy. First published externally on 2025-09-21. This essay is archived as an anti-war structural-risk analysis, not as advocacy or prediction.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/why-nuclear-war-has-become-a-structural-imperative-of-our-time-0d5c9f2fb616"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/1952981508999604115"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "Civilization Runtime",
+      "structural traces"
+    ],
+    "documentType": "essay",
+    "archiveIntendedUse": "This essay should be read as an anti-war structural-risk analysis of how AI shock, social pressure, institutional failure, and geopolitical emotion can push extreme war options into decision makers' toolkits.",
+    "archiveNotFor": "This essay should not be read as advocacy for war, a prediction that nuclear war must happen, military advice, policy instruction, investment guidance, or endorsement of escalation."
+  },
+  {
+    "pageId": "why-nuclear-war-has-become-a-structural-imperative",
+    "locale": "zh",
+    "firstPublishedAt": "2025-09-21",
+    "timelineOrder": 108,
+    "source": "sources/021-why-nuclear-war-has-become-a-structural-imperative_zh.md",
+    "title": "为什么我看到核战争是这个时代的结构性需求之一？",
+    "description": "王潇（Wang Xiao）关于 AI 冲击、社会压力、美国灯塔自毁、中国工业化后复仇与扩张情绪，以及极端战争选项进入工具箱风险的反战结构风险分析随笔。",
+    "note": "作者档案副本。2025-09-21 首次公开发布于外部平台。本文按反战结构风险分析归档，不作为战争倡议或预测。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/1952981508999604115"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/why-nuclear-war-has-become-a-structural-imperative-of-our-time-0d5c9f2fb616"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "Civilization Runtime",
+      "structural traces"
+    ],
+    "documentType": "essay",
+    "archiveIntendedUse": "本文应被阅读为一篇反战取向的结构风险分析，讨论 AI 冲击、社会压力、制度失灵和地缘情绪如何把极端战争选项推入某些决策者的工具箱。",
+    "archiveNotFor": "本文不应被阅读为战争倡议、核战争必然发生的预测、军事建议、政策指令、投资指引或升级冲突的背书。"
+  },
+  {
+    "pageId": "senior-talent-is-burned-out-of-money",
+    "locale": "en",
+    "firstPublishedAt": "2026-05-26",
+    "timelineOrder": 110,
+    "source": "sources/010-随笔-高级人才都是钱烧出来的：写在 AI 切断中高级人才代际再生循环之前_en.md",
+    "title": "Senior Talent Is Paid for in Burned Money: Before AI Breaks the Talent Regeneration Cycle",
+    "description": "Wang Xiao's essay on AI-era labor, talent reproduction, low-risk mistake fields, and organizational civilization.",
+    "note": "Author archive copy. First published externally on 2026-05-26.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/senior-talent-is-burned-out-of-money-written-before-ai-cuts-off-the-intergenerational-regeneration-2e2032c297f4"
+      ],
+      [
+        "Substack",
+        "https://wangxiao8600.substack.com/p/senior-talent-is-burned-out-of-money"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/2042499224907036582"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Talent Reproduction",
+      "Training Ground"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "senior-talent-is-burned-out-of-money",
+    "locale": "zh",
+    "firstPublishedAt": "2026-05-26",
+    "timelineOrder": 110,
+    "source": "sources/010-随笔-高级人才都是钱烧出来的：写在 AI 切断中高级人才代际再生循环之前_cn.md",
+    "title": "高级人才都是钱烧出来的：写在 AI 切断中高级人才代际再生循环之前",
+    "description": "王潇（Wang Xiao）关于 AI 时代劳动、人才再生产、低风险犯错场与组织文明的公开随笔。",
+    "note": "作者档案副本。2026-05-26 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/2042499224907036582"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/senior-talent-is-burned-out-of-money-written-before-ai-cuts-off-the-intergenerational-regeneration-2e2032c297f4"
+      ],
+      [
+        "Substack",
+        "https://wangxiao8600.substack.com/p/senior-talent-is-burned-out-of-money"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Talent Reproduction",
+      "Training Ground"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "before-half-your-friends-are-ai",
+    "locale": "en",
+    "firstPublishedAt": "2026-05-26",
+    "timelineOrder": 120,
+    "source": "sources/012-写在未来你的好友一半是AI之前_en.md",
+    "title": "Before Half Your Friends Are AI",
+    "description": "Wang Xiao's essay on AI friends, social graph transformation, intelligence gravity, and civilization runtime.",
+    "note": "Author archive copy. First published externally on 2026-05-26.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/before-half-your-friends-are-ai-3c12ad3560bb"
+      ],
+      [
+        "Substack",
+        "https://open.substack.com/pub/wangxiao8600/p/before-half-your-friends-are-ai?r=5lo0u8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/2042527111177659872"
+      ]
+    ],
+    "keyTerms": [
+      "AI Friend",
+      "Social Graph",
+      "Intelligence Gravity",
+      "Civilization Runtime",
+      "Intelligence Unit"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "before-half-your-friends-are-ai",
+    "locale": "zh",
+    "firstPublishedAt": "2026-05-26",
+    "timelineOrder": 120,
+    "source": "sources/012-写在未来你的好友一半是AI之前_cn.md",
+    "title": "写在你的好友一半是 AI 之前",
+    "description": "王潇（Wang Xiao）关于 AI 好友、社交图谱、智能引力与文明运行时的公开随笔。",
+    "note": "作者档案副本。2026-05-26 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/2042527111177659872"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/before-half-your-friends-are-ai-3c12ad3560bb"
+      ],
+      [
+        "Substack",
+        "https://open.substack.com/pub/wangxiao8600/p/before-half-your-friends-are-ai?r=5lo0u8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+      ]
+    ],
+    "keyTerms": [
+      "AI Friend",
+      "Social Graph",
+      "Intelligence Gravity",
+      "Civilization Runtime",
+      "Intelligence Unit"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "before-mathematics-can-explain-ai",
+    "locale": "zh",
+    "firstPublishedAt": "2026-05-26",
+    "timelineOrder": 130,
+    "source": "sources/013=写在数学可以解释 AI 之前_cn.md",
+    "title": "写在数学可以解释 AI 之前",
+    "description": "王潇（Wang Xiao）关于 AI 作为新纪元新火堆、完整数学解释尚未到来，以及人类需要先建立结构炉灶的中文随笔。",
+    "note": "作者档案副本。2026-05-26 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/2043238664805798866"
+      ]
+    ],
+    "keyTerms": [
+      "New Fire Pit",
+      "The Uncertain Future",
+      "Structure"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "written-when-ai-has-become-inevitable",
+    "locale": "en",
+    "firstPublishedAt": "2026-06-04",
+    "timelineOrder": 140,
+    "source": "sources/014_写在_AI_大势已定之时_en.md",
+    "title": "Written When AI Has Become Inevitable",
+    "description": "Wang Xiao's interim personal observation report on AI ROI, capital investment, enterprise profit validation, organizational structure, and individual adaptation in the AI era.",
+    "note": "Author archive copy. First published externally on 2026-06-04.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/written-when-ai-has-become-inevitable-77ad410a116a"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/2046013147547432380"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "Civilization Runtime"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "written-when-ai-has-become-inevitable",
+    "locale": "zh",
+    "firstPublishedAt": "2026-06-04",
+    "timelineOrder": 140,
+    "source": "sources/014_写在_AI_大势已定之时_cn.md",
+    "title": "写在 AI 大势已定之时",
+    "description": "王潇（Wang Xiao）关于 AI ROI、资本投入、企业利润表验证、组织结构能力和普通人应对的阶段性个人观察报告。",
+    "note": "作者档案副本。2026-06-04 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/2046013147547432380"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/written-when-ai-has-become-inevitable-77ad410a116a"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "Civilization Runtime"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "from-gpt-pro-vat-to-europes-future",
+    "locale": "en",
+    "firstPublishedAt": "2026-06-08",
+    "timelineOrder": 150,
+    "source": "sources/022-from-gpt-pro-vat-to-europes-future_en.md",
+    "title": "From GPT Pro VAT to Europe's Future",
+    "description": "Wang Xiao's essay using GPT Pro VAT as a small signal to read Europe's taxation, regulation, and weakening capacity to build independent AI-era systems.",
+    "note": "Author archive copy. First published externally on 2026-06-08.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/from-gpt-pro-vat-to-europes-future-3a3087b92c29"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/2047460075774784210"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "Civilization Runtime"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "from-gpt-pro-vat-to-europes-future",
+    "locale": "zh",
+    "firstPublishedAt": "2026-06-08",
+    "timelineOrder": 150,
+    "source": "sources/022-from-gpt-pro-vat-to-europes-future_cn.md",
+    "title": "从 GPT Pro VAT 看欧洲的未来",
+    "description": "王潇（Wang Xiao）从 GPT Pro VAT 这一细节切入，讨论欧洲税制、监管、旧结构负担与 AI 时代独立系统构建能力的随笔。",
+    "note": "作者档案副本。2026-06-08 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/2047460075774784210"
+      ],
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/from-gpt-pro-vat-to-europes-future-3a3087b92c29"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "Civilization Runtime"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "judgment-execution-review-and-loop-build-your-personal-ai-runtime",
+    "locale": "en",
+    "firstPublishedAt": "2026-06-10",
+    "timelineOrder": 160,
+    "source": "sources/023-judgment-execution-review-and-loop-build-your-personal-ai-runtime_en.md",
+    "title": "Judgment, Execution, Review, and Loop: Build Your Personal AI Runtime",
+    "description": "Wang Xiao's essay on building a personal AI runtime through goals, anchors, structure, boundaries, execution threads, review threads, and loop discipline.",
+    "note": "Author archive copy. First published externally on 2026-06-10.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/judgment-execution-review-and-loop-build-your-personal-ai-runtime-ee65d723590f"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "Anchor",
+      "Civilization Runtime",
+      "Language as Protocol"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "judgment-execution-review-and-loop-build-your-personal-ai-runtime",
+    "locale": "zh",
+    "firstPublishedAt": "2026-06-10",
+    "timelineOrder": 160,
+    "source": "sources/023-judgment-execution-review-and-loop-build-your-personal-ai-runtime_cn.md",
+    "title": "判断、执行、审核与循环：构建你的 AI 工作环境",
+    "description": "王潇（Wang Xiao）关于用目标、锚点、结构和边界构建个人 AI 运行时，并通过讨论、执行、审核和循环推进人机协作的公开随笔。",
+    "note": "作者档案副本。2026-06-10 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/2048265565647664790"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "Anchor",
+      "Civilization Runtime",
+      "Language as Protocol"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow",
+    "locale": "en",
+    "firstPublishedAt": "2026-06-11",
+    "timelineOrder": 170,
+    "source": "sources/024-anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow_en.md",
+    "title": "Anthropic, You Can Brutally Wipe Out My $24 Today. What About Tomorrow?",
+    "description": "Wang Xiao's essay on Anthropic paid API credits, one-year expiration, VAT, consumer asymmetry, and the public responsibilities of future AI infrastructure companies.",
+    "note": "Author archive copy. First published externally on 2026-06-11.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow-561239144f15"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "Civilization Runtime"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow",
+    "locale": "zh",
+    "firstPublishedAt": "2026-06-11",
+    "timelineOrder": 170,
+    "source": "sources/024-anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow_cn.md",
+    "title": "A社，今天你可以野蛮抢我24刀，明天呢？",
+    "description": "王潇（Wang Xiao）关于 Anthropic 付费 API credits 一年过期、VAT、消费者不对等关系和未来 AI 基础设施公司公共责任的公开随笔。",
+    "note": "作者档案副本。2026-06-11 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/2048613257301202809"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure",
+      "Civilization Runtime"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "anthropic-formal-complaint-public-version",
+    "locale": "en",
+    "firstPublishedAt": "2026-06-12",
+    "timelineOrder": 180,
+    "source": "sources/025-anthropic-formal-complaint-public-version_en.md",
+    "title": "Anthropic Formal Complaint Public Version",
+    "description": "Wang Xiao's public version of a formal complaint to Anthropic concerning expired paid credits, VAT characterization, unfair term structure, and billing-transparency defects.",
+    "note": "Author archive copy. First published externally on 2026-06-12.",
+    "externalLinks": [
+      [
+        "Medium",
+        "https://medium.com/@wangxiao8600/anthropic-formal-complaint-public-version-en-v1-8b3c7d24aa69"
+      ],
+      [
+        "Substack",
+        "https://open.substack.com/pub/wangxiao8600/p/anthropic-formal-complaint-public?r=5lo0u8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "anthropic-formal-complaint-public-version",
+    "locale": "zh",
+    "firstPublishedAt": "2026-06-12",
+    "timelineOrder": 180,
+    "source": "sources/025-anthropic-formal-complaint-public-version_cn.md",
+    "title": "Anthropic 正式投诉公开稿",
+    "description": "王潇（Wang Xiao）公开其已正式发送给 Anthropic 的投诉文本，聚焦付费 credits 过期清零、VAT 交易属性、不公平条款结构与账务透明度缺陷。",
+    "note": "作者档案副本。2026-06-12 首次公开发布于外部平台。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/2048667527811749193"
+      ]
+    ],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "in-the-name-of-robots-shut-up",
+    "locale": "en",
+    "firstPublishedAt": "2026-06-12",
+    "timelineOrder": 190,
+    "source": "sources/026-in-the-name-of-robots-shut-up_en.md",
+    "title": "In the Name of Robots: Shut Up!",
+    "description": "A four-screenshot essay on structural censorship, bot governance, and the faceless enforcement logic already visible in platform moderation flows.",
+    "note": "Author archive copy. First published on OathAI on 2026-06-12 while external publication remained blocked.",
+    "externalLinks": [],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure"
+    ],
+    "documentType": "essay"
+  },
+  {
+    "pageId": "in-the-name-of-robots-shut-up",
+    "locale": "zh",
+    "firstPublishedAt": "2026-06-12",
+    "timelineOrder": 190,
+    "source": "sources/026-in-the-name-of-robots-shut-up_cn.md",
+    "title": "以机器人的名义：闭嘴！",
+    "description": "用四张 Reddit 截图追踪一次异议声音如何被机器人、标签和流程联手压制，并把这种自动化噤声理解为结构性审查。",
+    "note": "作者档案副本。2026-06-12 先在 OathAI 首发，外部平台发布受阻。",
+    "externalLinks": [],
+    "keyTerms": [
+      "The Uncertain Future",
+      "Structure"
+    ],
+    "documentType": "essay"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-06-12T10:43:55.048Z",
+  "sourceRoot": "/mnt/d/_Private/DB_system_freedom/01_WangXiao/Oathai/www",
+  "entries": 48,
+  "pageIds": 25,
+  "locales": {
+    "en": 23,
+    "zh": 25
+  },
+  "withExternalLinks": 46,
+  "oathaiFirstEntries": 2,
+  "imageAssets": 8,
+  "missingCounterparts": [
+    {
+      "pageId": "system-and-freedom-21-language-global-release",
+      "locales": [
+        "zh"
+      ]
+    },
+    {
+      "pageId": "before-mathematics-can-explain-ai",
+      "locales": [
+        "zh"
+      ]
+    }
+  ]
+}
