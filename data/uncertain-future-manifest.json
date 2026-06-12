@@ -7,7 +7,7 @@
     "timelineOrder": 10,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/before-the-lighthouse-falls",
-    "sourcePath": "/sources/001-before-the-lighthouse-falls_en.md",
+    "sourcePath": "/content/uncertain-future/sources/001-before-the-lighthouse-falls_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -33,7 +33,7 @@
     "timelineOrder": 10,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/before-the-lighthouse-falls",
-    "sourcePath": "/sources/001-before-the-lighthouse-falls_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/001-before-the-lighthouse-falls_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -59,7 +59,7 @@
     "timelineOrder": 20,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/before-the-establishment-of-the-european-federation",
-    "sourcePath": "/sources/002-before-the-establishment-of-the-european-federation_en.md",
+    "sourcePath": "/content/uncertain-future/sources/002-before-the-establishment-of-the-european-federation_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -85,7 +85,7 @@
     "timelineOrder": 20,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/before-the-establishment-of-the-european-federation",
-    "sourcePath": "/sources/002-before-the-establishment-of-the-european-federation_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/002-before-the-establishment-of-the-european-federation_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -111,7 +111,7 @@
     "timelineOrder": 30,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/before-the-collapse-of-the-trump-paradigm",
-    "sourcePath": "/sources/003-before-the-collapse-of-the-trump-paradigm_en.md",
+    "sourcePath": "/content/uncertain-future/sources/003-before-the-collapse-of-the-trump-paradigm_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -137,7 +137,7 @@
     "timelineOrder": 30,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/before-the-collapse-of-the-trump-paradigm",
-    "sourcePath": "/sources/003-before-the-collapse-of-the-trump-paradigm_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/003-before-the-collapse-of-the-trump-paradigm_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -163,7 +163,7 @@
     "timelineOrder": 34,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/the-uncertain-future-driving-ai-via-your-language",
-    "sourcePath": "/sources/004-the-uncertain-future-driving-ai-via-your-language_en.md",
+    "sourcePath": "/content/uncertain-future/sources/004-the-uncertain-future-driving-ai-via-your-language_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -190,7 +190,7 @@
     "timelineOrder": 34,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/the-uncertain-future-driving-ai-via-your-language",
-    "sourcePath": "/sources/004-the-uncertain-future-driving-ai-via-your-language_zh.md",
+    "sourcePath": "/content/uncertain-future/sources/004-the-uncertain-future-driving-ai-via-your-language_zh.md",
     "externalLinks": [
       [
         "知乎",
@@ -217,7 +217,7 @@
     "timelineOrder": 36,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/ai-anxiety-maybe-not",
-    "sourcePath": "/sources/005-ai-anxiety-maybe-not_en.md",
+    "sourcePath": "/content/uncertain-future/sources/005-ai-anxiety-maybe-not_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -244,7 +244,7 @@
     "timelineOrder": 36,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/ai-anxiety-maybe-not",
-    "sourcePath": "/sources/005-ai-anxiety-maybe-not_zh.md",
+    "sourcePath": "/content/uncertain-future/sources/005-ai-anxiety-maybe-not_zh.md",
     "externalLinks": [
       [
         "知乎",
@@ -271,7 +271,7 @@
     "timelineOrder": 40,
     "documentType": "experiment_record",
     "siteRoute": "/uncertain-future/danbing-protocol-public-test-report",
-    "sourcePath": "/sources/014-danbing-protocol-system-public-test-report_en.md",
+    "sourcePath": "/content/uncertain-future/sources/014-danbing-protocol-system-public-test-report_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -299,7 +299,7 @@
     "timelineOrder": 40,
     "documentType": "experiment_record",
     "siteRoute": "/zh/uncertain-future/danbing-protocol-public-test-report",
-    "sourcePath": "/sources/014-danbing-protocol-system-public-test-report_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/014-danbing-protocol-system-public-test-report_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -327,7 +327,7 @@
     "timelineOrder": 50,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/what-is-output-is-execution",
-    "sourcePath": "/sources/015-what-is-output-is-execution_en.md",
+    "sourcePath": "/content/uncertain-future/sources/015-what-is-output-is-execution_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -353,7 +353,7 @@
     "timelineOrder": 50,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/what-is-output-is-execution",
-    "sourcePath": "/sources/015-what-is-output-is-execution_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/015-what-is-output-is-execution_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -379,7 +379,7 @@
     "timelineOrder": 60,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/what-is-structure-how-to-build-it",
-    "sourcePath": "/sources/016-what-is-structure-how-to-build-it_en.md",
+    "sourcePath": "/content/uncertain-future/sources/016-what-is-structure-how-to-build-it_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -407,7 +407,7 @@
     "timelineOrder": 60,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/what-is-structure-how-to-build-it",
-    "sourcePath": "/sources/016-what-is-structure-how-to-build-it_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/016-what-is-structure-how-to-build-it_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -435,7 +435,7 @@
     "timelineOrder": 70,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/horse-drawn-train-phenomenon",
-    "sourcePath": "/sources/017-horse-drawn-train-phenomenon_en.md",
+    "sourcePath": "/content/uncertain-future/sources/017-horse-drawn-train-phenomenon_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -462,7 +462,7 @@
     "timelineOrder": 70,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/horse-drawn-train-phenomenon",
-    "sourcePath": "/sources/017-horse-drawn-train-phenomenon_zh.md",
+    "sourcePath": "/content/uncertain-future/sources/017-horse-drawn-train-phenomenon_zh.md",
     "externalLinks": [
       [
         "知乎",
@@ -489,7 +489,7 @@
     "timelineOrder": 80,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/transcendental-encapsulation-trap",
-    "sourcePath": "/sources/011-transcendental-encapsulation-trap_en.md",
+    "sourcePath": "/content/uncertain-future/sources/011-transcendental-encapsulation-trap_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -516,7 +516,7 @@
     "timelineOrder": 80,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/transcendental-encapsulation-trap",
-    "sourcePath": "/sources/011-transcendental-encapsulation-trap_zh.md",
+    "sourcePath": "/content/uncertain-future/sources/011-transcendental-encapsulation-trap_zh.md",
     "externalLinks": [
       [
         "知乎",
@@ -543,7 +543,7 @@
     "timelineOrder": 90,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/hallucination-or-confabulation",
-    "sourcePath": "/sources/012-hallucination-or-confabulation_en.md",
+    "sourcePath": "/content/uncertain-future/sources/012-hallucination-or-confabulation_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -570,7 +570,7 @@
     "timelineOrder": 90,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/hallucination-or-confabulation",
-    "sourcePath": "/sources/012-hallucination-or-confabulation_zh.md",
+    "sourcePath": "/content/uncertain-future/sources/012-hallucination-or-confabulation_zh.md",
     "externalLinks": [
       [
         "知乎",
@@ -597,7 +597,7 @@
     "timelineOrder": 100,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/ai-behavioral-emergence-control-or-guidance",
-    "sourcePath": "/sources/013-ai-behavioral-emergence-control-or-guidance_en.md",
+    "sourcePath": "/content/uncertain-future/sources/013-ai-behavioral-emergence-control-or-guidance_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -624,7 +624,7 @@
     "timelineOrder": 100,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/ai-behavioral-emergence-control-or-guidance",
-    "sourcePath": "/sources/013-ai-behavioral-emergence-control-or-guidance_zh.md",
+    "sourcePath": "/content/uncertain-future/sources/013-ai-behavioral-emergence-control-or-guidance_zh.md",
     "externalLinks": [
       [
         "知乎",
@@ -651,7 +651,7 @@
     "timelineOrder": 105,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/dignity-of-programming-needs-to-be-rebuilt",
-    "sourcePath": "/sources/018-dignity-of-programming-needs-to-be-rebuilt_en.md",
+    "sourcePath": "/content/uncertain-future/sources/018-dignity-of-programming-needs-to-be-rebuilt_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -678,7 +678,7 @@
     "timelineOrder": 105,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/dignity-of-programming-needs-to-be-rebuilt",
-    "sourcePath": "/sources/018-dignity-of-programming-needs-to-be-rebuilt_zh.md",
+    "sourcePath": "/content/uncertain-future/sources/018-dignity-of-programming-needs-to-be-rebuilt_zh.md",
     "externalLinks": [
       [
         "知乎",
@@ -705,7 +705,7 @@
     "timelineOrder": 106,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/ai-writing-atlas-from-hypnosis-mlm-to-self-suppression",
-    "sourcePath": "/sources/019-ai-writing-atlas-from-hypnosis-mlm-to-self-suppression_en.md",
+    "sourcePath": "/content/uncertain-future/sources/019-ai-writing-atlas-from-hypnosis-mlm-to-self-suppression_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -732,7 +732,7 @@
     "timelineOrder": 106,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/ai-writing-atlas-from-hypnosis-mlm-to-self-suppression",
-    "sourcePath": "/sources/019-ai-writing-atlas-from-hypnosis-mlm-to-self-suppression_zh.md",
+    "sourcePath": "/content/uncertain-future/sources/019-ai-writing-atlas-from-hypnosis-mlm-to-self-suppression_zh.md",
     "externalLinks": [
       [
         "知乎",
@@ -759,7 +759,7 @@
     "timelineOrder": 107,
     "documentType": "announcement",
     "siteRoute": "/zh/uncertain-future/system-and-freedom-21-language-global-release",
-    "sourcePath": "/sources/020-system-and-freedom-21-language-global-release_zh.md",
+    "sourcePath": "/content/uncertain-future/sources/020-system-and-freedom-21-language-global-release_zh.md",
     "externalLinks": [
       [
         "知乎",
@@ -786,7 +786,7 @@
     "timelineOrder": 108,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/why-nuclear-war-has-become-a-structural-imperative",
-    "sourcePath": "/sources/021-why-nuclear-war-has-become-a-structural-imperative_en.md",
+    "sourcePath": "/content/uncertain-future/sources/021-why-nuclear-war-has-become-a-structural-imperative_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -813,7 +813,7 @@
     "timelineOrder": 108,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/why-nuclear-war-has-become-a-structural-imperative",
-    "sourcePath": "/sources/021-why-nuclear-war-has-become-a-structural-imperative_zh.md",
+    "sourcePath": "/content/uncertain-future/sources/021-why-nuclear-war-has-become-a-structural-imperative_zh.md",
     "externalLinks": [
       [
         "知乎",
@@ -840,7 +840,7 @@
     "timelineOrder": 110,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/senior-talent-is-burned-out-of-money",
-    "sourcePath": "/sources/010-随笔-高级人才都是钱烧出来的：写在 AI 切断中高级人才代际再生循环之前_en.md",
+    "sourcePath": "/content/uncertain-future/sources/010-随笔-高级人才都是钱烧出来的：写在 AI 切断中高级人才代际再生循环之前_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -870,7 +870,7 @@
     "timelineOrder": 110,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/senior-talent-is-burned-out-of-money",
-    "sourcePath": "/sources/010-随笔-高级人才都是钱烧出来的：写在 AI 切断中高级人才代际再生循环之前_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/010-随笔-高级人才都是钱烧出来的：写在 AI 切断中高级人才代际再生循环之前_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -900,7 +900,7 @@
     "timelineOrder": 120,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/before-half-your-friends-are-ai",
-    "sourcePath": "/sources/012-写在未来你的好友一半是AI之前_en.md",
+    "sourcePath": "/content/uncertain-future/sources/012-写在未来你的好友一半是AI之前_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -932,7 +932,7 @@
     "timelineOrder": 120,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/before-half-your-friends-are-ai",
-    "sourcePath": "/sources/012-写在未来你的好友一半是AI之前_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/012-写在未来你的好友一半是AI之前_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -964,7 +964,7 @@
     "timelineOrder": 130,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/before-mathematics-can-explain-ai",
-    "sourcePath": "/sources/013=写在数学可以解释 AI 之前_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/013=写在数学可以解释 AI 之前_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -986,7 +986,7 @@
     "timelineOrder": 140,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/written-when-ai-has-become-inevitable",
-    "sourcePath": "/sources/014_写在_AI_大势已定之时_en.md",
+    "sourcePath": "/content/uncertain-future/sources/014_写在_AI_大势已定之时_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -1012,7 +1012,7 @@
     "timelineOrder": 140,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/written-when-ai-has-become-inevitable",
-    "sourcePath": "/sources/014_写在_AI_大势已定之时_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/014_写在_AI_大势已定之时_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -1038,7 +1038,7 @@
     "timelineOrder": 150,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/from-gpt-pro-vat-to-europes-future",
-    "sourcePath": "/sources/022-from-gpt-pro-vat-to-europes-future_en.md",
+    "sourcePath": "/content/uncertain-future/sources/022-from-gpt-pro-vat-to-europes-future_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -1064,7 +1064,7 @@
     "timelineOrder": 150,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/from-gpt-pro-vat-to-europes-future",
-    "sourcePath": "/sources/022-from-gpt-pro-vat-to-europes-future_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/022-from-gpt-pro-vat-to-europes-future_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -1090,7 +1090,7 @@
     "timelineOrder": 160,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/judgment-execution-review-and-loop-build-your-personal-ai-runtime",
-    "sourcePath": "/sources/023-judgment-execution-review-and-loop-build-your-personal-ai-runtime_en.md",
+    "sourcePath": "/content/uncertain-future/sources/023-judgment-execution-review-and-loop-build-your-personal-ai-runtime_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -1114,7 +1114,7 @@
     "timelineOrder": 160,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/judgment-execution-review-and-loop-build-your-personal-ai-runtime",
-    "sourcePath": "/sources/023-judgment-execution-review-and-loop-build-your-personal-ai-runtime_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/023-judgment-execution-review-and-loop-build-your-personal-ai-runtime_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -1138,7 +1138,7 @@
     "timelineOrder": 170,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow",
-    "sourcePath": "/sources/024-anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow_en.md",
+    "sourcePath": "/content/uncertain-future/sources/024-anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -1160,7 +1160,7 @@
     "timelineOrder": 170,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow",
-    "sourcePath": "/sources/024-anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/024-anthropic-you-can-brutally-wipe-out-my-24-today-what-about-tomorrow_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -1182,7 +1182,7 @@
     "timelineOrder": 180,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/anthropic-formal-complaint-public-version",
-    "sourcePath": "/sources/025-anthropic-formal-complaint-public-version_en.md",
+    "sourcePath": "/content/uncertain-future/sources/025-anthropic-formal-complaint-public-version_en.md",
     "externalLinks": [
       [
         "Medium",
@@ -1207,7 +1207,7 @@
     "timelineOrder": 180,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/anthropic-formal-complaint-public-version",
-    "sourcePath": "/sources/025-anthropic-formal-complaint-public-version_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/025-anthropic-formal-complaint-public-version_cn.md",
     "externalLinks": [
       [
         "知乎",
@@ -1228,7 +1228,7 @@
     "timelineOrder": 190,
     "documentType": "essay",
     "siteRoute": "/uncertain-future/in-the-name-of-robots-shut-up",
-    "sourcePath": "/sources/026-in-the-name-of-robots-shut-up_en.md",
+    "sourcePath": "/content/uncertain-future/sources/026-in-the-name-of-robots-shut-up_en.md",
     "externalLinks": [],
     "keyTerms": [
       "The Uncertain Future",
@@ -1244,7 +1244,7 @@
     "timelineOrder": 190,
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/in-the-name-of-robots-shut-up",
-    "sourcePath": "/sources/026-in-the-name-of-robots-shut-up_cn.md",
+    "sourcePath": "/content/uncertain-future/sources/026-in-the-name-of-robots-shut-up_cn.md",
     "externalLinks": [],
     "keyTerms": [
       "The Uncertain Future",
