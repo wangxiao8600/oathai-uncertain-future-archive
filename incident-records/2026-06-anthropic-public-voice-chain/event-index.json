@@ -78,6 +78,19 @@
       "relation_to_chain": "The Reddit removals and bot actions are downstream public-platform events in the same Anthropic dispute chain."
     }
   ],
+  "evidence_groups": [
+    {
+      "group_id": "anthropic-api-billing",
+      "path": "evidence-group-anthropic-api-billing/",
+      "type": "billing-and-organization evidence group",
+      "files": [
+        "evidence-group-anthropic-api-billing/anthropic-api-credit-history-and-expired-grant-20260611.png",
+        "evidence-group-anthropic-api-billing/anthropic-api-cost-custom-range-limit-20260611.png",
+        "evidence-group-anthropic-api-billing/anthropic-api-organization-vat-identity-20260611.png"
+      ],
+      "relation_to_chain": "This three-image group preserves the billing history, usage-range limit, and organization VAT identity context behind the Anthropic complaint line."
+    }
+  ],
   "timeline": [
     {
       "date": "2026-06-11",
@@ -103,12 +116,18 @@
       "date": "2026-06-12",
       "kind": "incident-record",
       "label": "Medium publication block factual record"
+    },
+    {
+      "date": "2026-06-12",
+      "kind": "evidence-group",
+      "label": "Anthropic API billing evidence group"
     }
   ],
   "counts": {
     "essays": 3,
     "incident_records": 2,
-    "screenshots": 5
+    "evidence_groups": 1,
+    "screenshots": 8
   },
   "boundary": {
     "fact_layer": "Screenshot-grounded records remain restricted to directly visible facts.",

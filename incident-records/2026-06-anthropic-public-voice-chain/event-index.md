@@ -51,6 +51,18 @@ This index preserves the event chain formed by:
 - Role in chain:
   The Reddit removals and bot actions are downstream public-platform events in the same Anthropic dispute chain.
 
+## Evidence Group
+
+### Anthropic API billing
+
+- Folder: [evidence-group-anthropic-api-billing/](evidence-group-anthropic-api-billing)
+- Files:
+  [anthropic-api-credit-history-and-expired-grant-20260611.png](evidence-group-anthropic-api-billing/anthropic-api-credit-history-and-expired-grant-20260611.png) ·
+  [anthropic-api-cost-custom-range-limit-20260611.png](evidence-group-anthropic-api-billing/anthropic-api-cost-custom-range-limit-20260611.png) ·
+  [anthropic-api-organization-vat-identity-20260611.png](evidence-group-anthropic-api-billing/anthropic-api-organization-vat-identity-20260611.png)
+- Role in chain:
+  This three-image group preserves the billing history, usage-range limit, and organization VAT identity context behind the Anthropic complaint line.
+
 ## Timeline
 
 1. `2026-06-11` Essay: `Anthropic, You Can Brutally Wipe Out My $24 Today. What About Tomorrow?`
@@ -58,12 +70,14 @@ This index preserves the event chain formed by:
 3. `2026-06-12` Essay: `In the Name of Robots: Shut Up!`
 4. `2026-06-12` Incident record: `Reddit publication block factual record`
 5. `2026-06-12` Incident record: `Medium publication block factual record`
+6. `2026-06-12` Evidence group: `Anthropic API billing evidence group`
 
 ## Counts
 
 - Essays: `3`
 - Incident records: `2`
-- Screenshots: `5`
+- Evidence groups: `1`
+- Screenshots: `8`
 
 ## Boundary
 

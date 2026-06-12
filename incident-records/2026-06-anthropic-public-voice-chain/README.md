@@ -17,6 +17,7 @@ Do not treat these records as new essays by default.
 
 ```text
 event-index.json
+evidence-group-anthropic-api-billing/
 medium-publication-block/
 reddit-publication-block/
 ```
