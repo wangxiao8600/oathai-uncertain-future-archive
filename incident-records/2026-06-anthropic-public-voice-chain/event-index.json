@@ -49,10 +49,14 @@
         "zh": "/zh/uncertain-future/in-the-name-of-robots-shut-up"
       },
       "external_links": {
-        "en": [],
-        "zh": []
+        "en": [
+          "https://open.substack.com/pub/wangxiao8600/p/in-the-name-of-robots-shut-up?r=5lo0u8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+        ],
+        "zh": [
+          "https://zhuanlan.zhihu.com/p/2048845632429937644"
+        ]
       },
-      "publication_status": "oathai-first"
+      "publication_status": "external-published"
     }
   ],
   "incident_records": [

@@ -1229,12 +1229,21 @@
     "documentType": "essay",
     "siteRoute": "/uncertain-future/in-the-name-of-robots-shut-up",
     "sourcePath": "/content/uncertain-future/sources/026-in-the-name-of-robots-shut-up_en.md",
-    "externalLinks": [],
+    "externalLinks": [
+      [
+        "Substack",
+        "https://open.substack.com/pub/wangxiao8600/p/in-the-name-of-robots-shut-up?r=5lo0u8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/2048845632429937644"
+      ]
+    ],
     "keyTerms": [
       "The Uncertain Future",
       "Structure"
     ],
-    "publicationStatus": "oathai-first"
+    "publicationStatus": "external-published"
   },
   {
     "pageId": "in-the-name-of-robots-shut-up",
@@ -1245,11 +1254,20 @@
     "documentType": "essay",
     "siteRoute": "/zh/uncertain-future/in-the-name-of-robots-shut-up",
     "sourcePath": "/content/uncertain-future/sources/026-in-the-name-of-robots-shut-up_cn.md",
-    "externalLinks": [],
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/2048845632429937644"
+      ],
+      [
+        "Substack",
+        "https://open.substack.com/pub/wangxiao8600/p/in-the-name-of-robots-shut-up?r=5lo0u8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+      ]
+    ],
     "keyTerms": [
       "The Uncertain Future",
       "Structure"
     ],
-    "publicationStatus": "oathai-first"
+    "publicationStatus": "external-published"
   }
 ]

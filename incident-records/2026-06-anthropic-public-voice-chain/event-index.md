@@ -28,7 +28,8 @@ This index preserves the event chain formed by:
    `public-platform friction essay`  
    [In the Name of Robots: Shut Up!](https://oathai.io/uncertain-future/in-the-name-of-robots-shut-up)  
    [中文](https://oathai.io/zh/uncertain-future/in-the-name-of-robots-shut-up)  
-   Publication status: `oathai-first`
+   Publication status: `external-published`  
+   External links: [Substack](https://open.substack.com/pub/wangxiao8600/p/in-the-name-of-robots-shut-up?r=5lo0u8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) · [Zhihu](https://zhuanlan.zhihu.com/p/2048845632429937644)
 
 ## Incident Records
 

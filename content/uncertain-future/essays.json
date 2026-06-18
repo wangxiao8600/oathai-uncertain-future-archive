@@ -1232,8 +1232,17 @@
     "source": "sources/026-in-the-name-of-robots-shut-up_en.md",
     "title": "In the Name of Robots: Shut Up!",
     "description": "A four-screenshot essay on structural censorship, bot governance, and the faceless enforcement logic already visible in platform moderation flows.",
-    "note": "Author archive copy. First published on OathAI on 2026-06-12 while external publication remained blocked.",
-    "externalLinks": [],
+    "note": "Author archive copy. First published on OathAI on 2026-06-12. External publication links retained below.",
+    "externalLinks": [
+      [
+        "Substack",
+        "https://open.substack.com/pub/wangxiao8600/p/in-the-name-of-robots-shut-up?r=5lo0u8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+      ],
+      [
+        "Zhihu",
+        "https://zhuanlan.zhihu.com/p/2048845632429937644"
+      ]
+    ],
     "keyTerms": [
       "The Uncertain Future",
       "Structure"
@@ -1248,8 +1257,17 @@
     "source": "sources/026-in-the-name-of-robots-shut-up_cn.md",
     "title": "以机器人的名义：闭嘴！",
     "description": "用四张 Reddit 截图追踪一次异议声音如何被机器人、标签和流程联手压制，并把这种自动化噤声理解为结构性审查。",
-    "note": "作者档案副本。2026-06-12 先在 OathAI 首发，外部平台发布受阻。",
-    "externalLinks": [],
+    "note": "作者档案副本。2026-06-12 先在 OathAI 首发，外部发布链接见下。",
+    "externalLinks": [
+      [
+        "知乎",
+        "https://zhuanlan.zhihu.com/p/2048845632429937644"
+      ],
+      [
+        "Substack",
+        "https://open.substack.com/pub/wangxiao8600/p/in-the-name-of-robots-shut-up?r=5lo0u8&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+      ]
+    ],
     "keyTerms": [
       "The Uncertain Future",
       "Structure"
