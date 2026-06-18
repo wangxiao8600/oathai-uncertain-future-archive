@@ -2,6 +2,8 @@
 
 Public-source archive for `The Uncertain Future / 测不准的未来`.
 
+Author: [Wang Xiao](https://oathai.io/author)
+
 This repository is intended to hold the essay-layer source of truth:
 
 - essay metadata

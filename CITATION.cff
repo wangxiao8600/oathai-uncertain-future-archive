@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use OathAI Uncertain Future Archive, please cite it using the metadata in this file."
+title: "OathAI Uncertain Future Archive"
+date-released: "2026-06-12"
+authors:
+  - family-names: "Wang"
+    given-names: "Xiao"
+    website: "https://oathai.io/author"
+abstract: >-
+  OathAI Uncertain Future Archive is the public source archive for The
+  Uncertain Future / 测不准的未来, including essay metadata, bilingual source
+  markdown, essay images, publication links, and incident records.
+keywords:
+  - "OathAI"
+  - "The Uncertain Future"
+  - "AI essays"
+  - "public archive"
+  - "Wang Xiao"
+repository-code: "https://github.com/wangxiao8600/oathai-uncertain-future-archive"
