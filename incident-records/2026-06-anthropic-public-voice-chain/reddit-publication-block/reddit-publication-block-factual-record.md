@@ -1,7 +1,7 @@
 # Reddit 发布受阻事实记录
 
 Created: 2026-06-12 / Europe-Lisbon  
-Directory: `D:\_Private\DB_system_freedom\01_WangXiao\A社\执行\公开稿\Reddit`
+Directory: `incident-records/2026-06-anthropic-public-voice-chain/reddit-publication-block/`
 
 ---
 

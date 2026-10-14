@@ -24,8 +24,22 @@ async function copyTarget(relativePath) {
   await fs.cp(from, to, { recursive: true, force: true });
 }
 
-function publicationStatus(entry) {
-  return entry.externalLinks?.length ? "external-published" : "oathai-first";
+function publicationStatus(entry, essays) {
+  // Publication links may be later republications. Use the recorded history.
+  const statuses = new Set();
+  for (const record of essays.filter((record) => record.pageId === entry.pageId)) {
+    const note = record.note ?? "";
+    if (/First published on OathAI\b|先在\s*OathAI\s*首发/i.test(note)) {
+      statuses.add("oathai-first");
+    }
+    if (/First published externally\b|Written and externally published\b|首次公开发布于外部平台/i.test(note)) {
+      statuses.add("external-published");
+    }
+  }
+  if (statuses.size !== 1) {
+    throw new Error(`Missing or conflicting first-publication facts: ${entry.pageId}`);
+  }
+  return [...statuses][0];
 }
 
 async function buildDerivedData() {
@@ -49,7 +63,7 @@ async function buildDerivedData() {
         sourcePath: `/${path.posix.join("content", "uncertain-future", entry.source.replace(/\\/g, "/"))}`,
         externalLinks: entry.externalLinks,
         keyTerms: entry.keyTerms,
-        publicationStatus: publicationStatus(entry)
+        publicationStatus: publicationStatus(entry, essays)
       };
     })
     .sort((a, b) => {
@@ -74,7 +88,6 @@ async function buildDerivedData() {
 
   const summary = {
     generatedAt: new Date().toISOString(),
-    sourceRoot,
     entries: essays.length,
     pageIds: byPage.size,
     locales: {
@@ -82,7 +95,7 @@ async function buildDerivedData() {
       zh: essays.filter((entry) => entry.locale === "zh").length
     },
     withExternalLinks: essays.filter((entry) => entry.externalLinks?.length).length,
-    oathaiFirstEntries: essays.filter((entry) => !entry.externalLinks?.length).length,
+    oathaiFirstEntries: manifest.filter((entry) => entry.publicationStatus === "oathai-first").length,
     imageAssets: (await fs.readdir(path.join(repoRoot, "pic", "uncertain-future"))).length,
     missingCounterparts
   };
@@ -91,6 +104,10 @@ async function buildDerivedData() {
   await fs.writeFile(path.join(repoRoot, "data", "uncertain-future-manifest.json"), `${JSON.stringify(manifest, null, 2)}\n`);
   await fs.writeFile(path.join(repoRoot, "data", "summary.json"), `${JSON.stringify(summary, null, 2)}\n`);
 }
+
+// Reject incomplete publication history before replacing archived content.
+const sourceEssays = JSON.parse(await fs.readFile(path.join(sourceRoot, "content", "uncertain-future", "essays.json"), "utf8"));
+for (const entry of sourceEssays) publicationStatus(entry, sourceEssays);
 
 for (const relativePath of copies) {
   await removeTarget(relativePath);
