@@ -13,6 +13,38 @@ const manifestFile = "data/uncertain-future-manifest.json";
 const summaryFile = "data/summary.json";
 const robotId = "in-the-name-of-robots-shut-up";
 
+test("event indexes agree with essay metadata and manifest publication history", async () => {
+  const base = "incident-records/2026-06-anthropic-public-voice-chain";
+  const index = await readJSON(path.join(repo, base, "event-index.json"));
+  const markdown = await fs.readFile(path.join(repo, base, "event-index.md"), "utf8");
+  const essays = await readJSON(path.join(repo, essaysFile));
+  const manifest = await readJSON(path.join(repo, manifestFile));
+  for (const event of index.essay_line) {
+    for (const [locale, route] of Object.entries(event.routes)) {
+      const essay = essays.find((e) => e.pageId === event.pageId && e.locale === locale);
+      const row = manifest.find((e) => e.pageId === event.pageId && e.locale === locale);
+      assert.ok(essay && row, `${event.pageId}:${locale}`);
+      assert.equal(event.date, essay.firstPublishedAt);
+      assert.equal(event.date, row.firstPublishedAt);
+      assert.equal(route, row.siteRoute);
+      assert.ok(markdown.includes(`https://oathai.io${route})`));
+      for (const url of event.external_links[locale] ?? []) {
+        assert.ok(essay.externalLinks.some(([, link]) => link === url));
+        assert.ok(row.externalLinks.some(([, link]) => link === url));
+      }
+      if (event.publication_status) {
+        assert.equal(event.publication_status, row.publicationStatus);
+        const section = markdown.split(/^\d+\. /m).find((block) => block.includes(`https://oathai.io${route})`));
+        assert.ok(section.includes(`Publication status: \`${event.publication_status}\``));
+      }
+      if (event.pageId === robotId) {
+        assert.equal(event.publication_status, "oathai-first");
+        assert.match(essay.note, /First published on OathAI|先在\s*OathAI\s*首发/);
+      }
+    }
+  }
+});
+
 async function fixture(run) {
   const temp = await fs.mkdtemp(path.join(os.tmpdir(), "archive-sync-"));
   const source = path.join(temp, "source");
